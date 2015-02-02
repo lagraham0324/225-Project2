@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=AddBook
+comment0.target=Library(java.lang.String)
+comment0.text=\nCreates\ new\ Library\nAllows\ you\ to\ name\ your\ Library\nExample\:\ "Boston\ Public\ Library"\n
+comment1.params=
+comment1.target=void\ printBookInfo()
+comment1.text=\n\ Prints\ out\ Book\ Information\n\ from\ the\ AddBook\ class.\n
+numComments=2
